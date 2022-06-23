@@ -1,0 +1,522 @@
+[
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/EntryPoint.cpp.o -c /home/teja/Documents/projects/Editor/EntryPoint.cpp",
+  "file": "/home/teja/Documents/projects/Editor/EntryPoint.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/src/Editor.cpp.o -c /home/teja/Documents/projects/Editor/src/Editor.cpp",
+  "file": "/home/teja/Documents/projects/Editor/src/Editor.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/UIlib/imgui.cpp.o -c /home/teja/Documents/projects/Editor/UIlib/imgui.cpp",
+  "file": "/home/teja/Documents/projects/Editor/UIlib/imgui.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/UIlib/imgui_demo.cpp.o -c /home/teja/Documents/projects/Editor/UIlib/imgui_demo.cpp",
+  "file": "/home/teja/Documents/projects/Editor/UIlib/imgui_demo.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/UIlib/imgui_draw.cpp.o -c /home/teja/Documents/projects/Editor/UIlib/imgui_draw.cpp",
+  "file": "/home/teja/Documents/projects/Editor/UIlib/imgui_draw.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/UIlib/imgui_impl_glfw.cpp.o -c /home/teja/Documents/projects/Editor/UIlib/imgui_impl_glfw.cpp",
+  "file": "/home/teja/Documents/projects/Editor/UIlib/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/UIlib/imgui_impl_opengl3.cpp.o -c /home/teja/Documents/projects/Editor/UIlib/imgui_impl_opengl3.cpp",
+  "file": "/home/teja/Documents/projects/Editor/UIlib/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/UIlib/imgui_tables.cpp.o -c /home/teja/Documents/projects/Editor/UIlib/imgui_tables.cpp",
+  "file": "/home/teja/Documents/projects/Editor/UIlib/imgui_tables.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -I/home/teja/Documents/projects/Editor/include -I/home/teja/Documents/projects/Editor/UIlib -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -Wall -o CMakeFiles/Editor.dir/UIlib/imgui_widgets.cpp.o -c /home/teja/Documents/projects/Editor/UIlib/imgui_widgets.cpp",
+  "file": "/home/teja/Documents/projects/Editor/UIlib/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -DCore_EXPORTS -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -fPIC -o Core/CMakeFiles/Core.dir/Core.cpp.o -c /home/teja/Documents/projects/Editor/Core/Core.cpp",
+  "file": "/home/teja/Documents/projects/Editor/Core/Core.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -DCore_EXPORTS -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -fPIC -o Core/CMakeFiles/Core.dir/src/Window.cpp.o -c /home/teja/Documents/projects/Editor/Core/src/Window.cpp",
+  "file": "/home/teja/Documents/projects/Editor/Core/src/Window.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -DCore_EXPORTS -I/home/teja/Documents/projects/Editor/Core/include -I/home/teja/Documents/projects/Editor/Core/Math/include -I/home/teja/Documents/projects/Editor/Core/Renderer/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -fPIC -o Core/CMakeFiles/Core.dir/src/src.cpp.o -c /home/teja/Documents/projects/Editor/Core/src/src.cpp",
+  "file": "/home/teja/Documents/projects/Editor/Core/src/src.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -DMath_EXPORTS -I/home/teja/Documents/projects/Editor/Core/Math/include -O3 -DNDEBUG -fPIC -o Core/Math/CMakeFiles/Math.dir/Math.cpp.o -c /home/teja/Documents/projects/Editor/Core/Math/Math.cpp",
+  "file": "/home/teja/Documents/projects/Editor/Core/Math/Math.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -DMath_EXPORTS -I/home/teja/Documents/projects/Editor/Core/Math/include -O3 -DNDEBUG -fPIC -o Core/Math/CMakeFiles/Math.dir/src/src.cpp.o -c /home/teja/Documents/projects/Editor/Core/Math/src/src.cpp",
+  "file": "/home/teja/Documents/projects/Editor/Core/Math/src/src.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -DEVALUATION_ENABLED -DRenderer_EXPORTS -I/home/teja/Documents/projects/Editor/Core/Renderer/include -O3 -DNDEBUG -fPIC -o Core/Renderer/CMakeFiles/Renderer.dir/src/Renderer.cpp.o -c /home/teja/Documents/projects/Editor/Core/Renderer/src/Renderer.cpp",
+  "file": "/home/teja/Documents/projects/Editor/Core/Renderer/src/Renderer.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -DEVALUATION_ENABLED -DRenderer_EXPORTS -I/home/teja/Documents/projects/Editor/Core/Renderer/include -O3 -DNDEBUG -fPIC -o Core/Renderer/CMakeFiles/Renderer.dir/src/glad.c.o -c /home/teja/Documents/projects/Editor/Core/Renderer/src/glad.c",
+  "file": "/home/teja/Documents/projects/Editor/Core/Renderer/src/glad.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang++ -DEVALUATION_ENABLED -DRenderer_EXPORTS -I/home/teja/Documents/projects/Editor/Core/Renderer/include -O3 -DNDEBUG -fPIC -o Core/Renderer/CMakeFiles/Renderer.dir/src/src.cpp.o -c /home/teja/Documents/projects/Editor/Core/Renderer/src/src.cpp",
+  "file": "/home/teja/Documents/projects/Editor/Core/Renderer/src/src.cpp"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/context.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/context.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/init.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/init.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/input.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/input.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/monitor.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/monitor.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/vulkan.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/vulkan.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/window.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/window.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/x11_init.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/x11_init.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/x11_init.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/x11_monitor.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/x11_monitor.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/x11_monitor.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/x11_window.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/x11_window.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/x11_window.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/xkb_unicode.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/xkb_unicode.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/xkb_unicode.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/posix_time.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/posix_time.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/posix_time.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/posix_thread.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/posix_thread.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/posix_thread.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/glx_context.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/glx_context.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/glx_context.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/egl_context.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/egl_context.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/osmesa_context.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/osmesa_context.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -D_GLFW_USE_CONFIG_H -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src -I/home/teja/Documents/projects/Editor/build/_deps/glfw-build/src -O3 -DNDEBUG -fPIC -Wall -std=gnu99 -o _deps/glfw-build/src/CMakeFiles/glfw.dir/linux_joystick.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/linux_joystick.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/src/linux_joystick.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/boing.dir/boing.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/boing.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/boing.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/boing.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/gears.dir/gears.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/gears.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/gears.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/gears.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/heightmap.dir/heightmap.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/heightmap.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/heightmap.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/heightmap.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/offscreen.dir/offscreen.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/offscreen.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/offscreen.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/offscreen.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/particles.dir/particles.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/particles.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/particles.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/particles.dir/__/deps/tinycthread.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/tinycthread.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/tinycthread.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/particles.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/particles.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/sharing.dir/sharing.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/sharing.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/sharing.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/sharing.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/simple.dir/simple.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/simple.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/simple.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/simple.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/splitview.dir/splitview.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/splitview.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/splitview.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/splitview.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/wave.dir/wave.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/wave.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/examples/wave.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/examples/CMakeFiles/wave.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/clipboard.dir/clipboard.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/clipboard.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/clipboard.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/clipboard.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/clipboard.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/events.dir/events.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/events.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/events.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/events.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/events.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/msaa.dir/msaa.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/msaa.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/msaa.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/msaa.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/msaa.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/glfwinfo.dir/glfwinfo.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/glfwinfo.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/glfwinfo.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/glfwinfo.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/glfwinfo.dir/__/deps/glad_vulkan.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_vulkan.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_vulkan.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/iconify.dir/iconify.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/iconify.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/iconify.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/iconify.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/iconify.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/monitors.dir/monitors.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/monitors.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/monitors.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/monitors.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/monitors.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/reopen.dir/reopen.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/reopen.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/reopen.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/reopen.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/cursor.dir/cursor.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/cursor.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/cursor.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/cursor.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/empty.dir/empty.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/empty.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/empty.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/empty.dir/__/deps/tinycthread.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/tinycthread.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/tinycthread.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/empty.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/gamma.dir/gamma.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/gamma.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/gamma.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/gamma.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/icon.dir/icon.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/icon.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/icon.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/icon.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/inputlag.dir/inputlag.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/inputlag.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/inputlag.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/inputlag.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/inputlag.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/joysticks.dir/joysticks.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/joysticks.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/joysticks.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/joysticks.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/opacity.dir/opacity.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/opacity.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/opacity.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/opacity.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/tearing.dir/tearing.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/tearing.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/tearing.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/tearing.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/threads.dir/threads.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/threads.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/threads.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/threads.dir/__/deps/tinycthread.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/tinycthread.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/tinycthread.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/threads.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/timeout.dir/timeout.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/timeout.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/timeout.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/timeout.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/title.dir/title.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/title.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/title.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/title.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/triangle-vulkan.dir/triangle-vulkan.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/triangle-vulkan.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/triangle-vulkan.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/triangle-vulkan.dir/__/deps/glad_vulkan.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_vulkan.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_vulkan.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/windows.dir/windows.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/windows.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/tests/windows.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/windows.dir/__/deps/getopt.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/getopt.c"
+},
+{
+  "directory": "/home/teja/Documents/projects/Editor/build",
+  "command": "/usr/bin/clang -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps -I/home/teja/Documents/projects/Editor/build/_deps/glfw-src/include -O3 -DNDEBUG -std=gnu99 -o _deps/glfw-build/tests/CMakeFiles/windows.dir/__/deps/glad_gl.c.o -c /home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c",
+  "file": "/home/teja/Documents/projects/Editor/build/_deps/glfw-src/deps/glad_gl.c"
+}
+]
